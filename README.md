@@ -34,7 +34,7 @@ streamlit run app.py
 - The Streamlit app sets the page title, icon, and layout.
 - It allows users to upload an image and enter a prompt.
 - When the user clicks the "Submit" button, it opens the uploaded image in one column and displays the generated response in the other column.
-- It uses a custom function set_bg_from_url to set a background image for the application.
+- It uses a custom function **set_bg_from_url** to set a background image for the application.
 
 ## Customization
 - You can change the background image URL in the set_bg_from_url function.

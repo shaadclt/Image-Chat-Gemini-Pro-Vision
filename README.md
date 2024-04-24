@@ -14,7 +14,7 @@ git clone https://github.com/shaadclt/Image-Chat-Gemini-Pro-Vision.git
 pip install -r requirements.txt
 ```
 3. Create a file named .env in the root directory of the project. Add your Google Cloud API key to the .env file with the following variable name:
-GOOGLE_API_KEY=<YOUR_API_KEY>
+**GOOGLE_API_KEY=<YOUR_API_KEY>**
 
 4. Run the application:
 ```Bash

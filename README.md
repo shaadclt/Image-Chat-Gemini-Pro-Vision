@@ -21,7 +21,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Features
+## Usage
 - Upload an image
 - Enter a prompt
 - Generate a response based on the image and prompt using Gemini Pro Vision
@@ -42,6 +42,6 @@ streamlit run app.py
 ## License
 This project is licensed under the MIT License.
 
-## Contact
+## Contribution
 Feel free to create issues or pull requests on this repository.
 
